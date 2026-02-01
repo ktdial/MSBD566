@@ -1,0 +1,11 @@
+MSBD566_Midterm_Project_Anemia_NHANES/
+│
+├── README.txt
+├── midterm_report.pdf
+│
+├── notebooks/
+│   └── preliminary_EDA.ipynb
+│
+└── data/
+    └──  DEMO_J.xpt
+    └── CBC_J.xpt
